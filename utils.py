@@ -192,11 +192,11 @@ async def upload(m, bot, chat_id, dir):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/ImSaantha'),
 					InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
 				],
 				[
-					InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
+					InlineKeyboardButton("🔗Source Code", url="https://github.com/King-Amda/Instergram-Bot"),
                     InlineKeyboardButton("⚡️Update Channel", url="https://t.me/subin_works")
 				]
 			]
